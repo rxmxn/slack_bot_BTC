@@ -12,5 +12,7 @@ Example:
 `python3 cli.py 'BTC' ':bitcoin:' 'Bitcoin'`
 
 BTC -> symbol
+
 :bitcoin: -> slack icon
+
 Bitcoin -> Bot name
