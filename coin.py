@@ -85,7 +85,7 @@ class Coin:
 
     def get_value_from_date(self, data_array, _date):
         """Get data from a specific date in isoformat: YYYY-MM-DD"""
-        return data_array[_date]['1a. open (USD)']
+        return data_array[_date]['4a. close (USD)']
 
     def __str__(self):
         coin_string = list()

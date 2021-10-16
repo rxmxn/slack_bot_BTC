@@ -9,8 +9,9 @@ https://www.alphavantage.co/documentation/
 Also need the Slack token of the bot.
 
 Example:
-`python3 cli.py 'BTC' ':bitcoin:' 'Bitcoin'`
+`python3 cli.py run 'BTC' ':bitcoin:' 'Bitcoin'`
+`python3 cli.py print 'BTC' ':bitcoin:' 'Bitcoin'`
 
-BTC -> symbol
-:bitcoin: -> slack icon
-Bitcoin -> Bot name
+`BTC` -> symbol
+`:bitcoin:` -> slack icon
+`Bitcoin` -> Bot name
